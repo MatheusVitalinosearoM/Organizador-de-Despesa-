@@ -1,0 +1,8 @@
+1|Alimentação|Despesas com alimentação
+2|Transporte|Despesas com transporte
+3|Saúde|Despesas com saúde
+4|Educação|Despesas com educação
+5|Lazer|Despesas com lazer
+6|Moradia|Despesas com moradia
+7|Outros|Outras despesas
+8|Gasolina|Gasolina
