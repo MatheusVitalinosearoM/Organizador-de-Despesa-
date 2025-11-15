@@ -2,7 +2,6 @@
 Organizador de Despesa com Java
 # Sistema de Controle de Despesas
 
-**Versão:** 1.0.0
 **Autor:** Matheus Vitalino de Moraes
 
 ---
